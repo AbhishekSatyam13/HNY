@@ -1,0 +1,23 @@
+
+.aw-common{
+    position: fixed;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: ff0030 !important;
+    background-color: blanchedalmond;
+    z-index: 999;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.antwalk1{
+    top: 10%;
+}
+
+.antwalk2{
+    top: 20%;
+}
+
+.antwalk3{
+    top: 30%;
+}
